@@ -1,7 +1,14 @@
 
 # Cocktails App with (React + Tailwind CSS + Vite + API integration + Context API )
 
-  <img src="" align="center" width="100%"/>
+  <img src="/public/Screenshot%203.png" align="left" width="47%"/>
+  
+  <img src="/public/Screenshot%204.png" align="right" width="47%"/>
+  
+  <img src="/public/Screenshot%201.png" align="center" width="100%"/>
+  
+  <img src="/public/Screenshot%202.png" align="center" width="100%"/>
+ 
 
   
 Overview
